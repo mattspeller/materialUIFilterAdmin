@@ -1,0 +1,21 @@
+{
+  "name": "example-filter-selection-material-v10",
+  "description": "Showing how to use chips and app bar to add and remove filters to a list",
+  "version": "0.0.9",
+  "dependencies": {
+    "react-material-color-picker": "1.1.2",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "material-ui-icons": "1.0.0-beta.17",
+    "material-ui": "1.0.0-beta.28"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
